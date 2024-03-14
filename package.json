@@ -1,5 +1,5 @@
 {
-  "name": "https-localhost",
+  "name": "ecampuslearning-https-localhost",
   "version": "4.7.1",
   "description": "HTTPS server running on localhost",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daquinoaldo/https-localhost.git"
+    "url": "git+https://github.com/ecampuslearning/https-localhost.git"
   },
   "keywords": [
     "localhost",
